@@ -1,5 +1,5 @@
 # labwork/solutions 
-Here you can find answers related to all labs and mini projects related to the 9 weeks data analytics bootcamp 2020. 
+Here you can find answers to labs and mini projects related to the 9 weeks data analytics bootcamp 2020. 
 1st week: basic python codes and introductin to Machine Learning (ML)
 2nd week: SQL quiries 
 3rd week: Sql quiries advanced and linkage to Python
