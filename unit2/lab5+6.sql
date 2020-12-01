@@ -15,7 +15,7 @@ update film set rental_duration = 3, rental_rate = 2.99, replacement_cost = 8.99
 
 update inventory set store_id = 1;
 
-#extra
+#extra from class
 select * from category f
 join film_category l on f.category_id = l.category_id
 where f.category_id=3;
